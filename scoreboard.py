@@ -31,7 +31,7 @@ class Score(Turtle):
         self.score = 0
         self.clear()
         self.write_score()
-        # self.update_score()
+        
 
 
     def load_high_score(self):
